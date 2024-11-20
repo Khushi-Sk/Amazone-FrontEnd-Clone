@@ -53,7 +53,7 @@ function OtherDetails() {
 function Navbar() {
     return (
         <>
-            <nav className="inline-flex bg-slate-700 text-[14px] text-slate-50 w-screen">
+            <nav className="inline-flex bg-slate-700 text-[14px] text-slate-50 w-full">
                 <a className="p-2 hover:border-white border border-transparent ">All</a>
                 <a className="p-2 hover:border-white border border-transparent ">Customer Service</a>
                 <a className="p-2 hover:border-white border border-transparent ">Buy Again</a>
