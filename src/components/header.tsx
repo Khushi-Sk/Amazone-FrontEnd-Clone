@@ -78,7 +78,7 @@ function Navbar() {
 export default function Header() {
     return (
         <>
-        <div className="flex flex-col bg-gray-900 absoulte w-screen ">
+        <div className="flex flex-col bg-gray-900 absoulte ">
             <div className="bg-gray-800  flex-row flex ">
                 <button> <img className="w-36 h-18 border border-transparent hover:border-neutral-50" src="https://m.media-amazon.com/images/G/02/gc/designs/livepreview/amzn_logo_squid_noto_email_v2016_uk-main._CB463270308_.png"/> 
                 {/* <span className="relative bottom-14 left-24 text-slate-50 ">.co.uk</span> */}
